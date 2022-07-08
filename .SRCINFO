@@ -1,0 +1,17 @@
+pkgbase = nottetris2
+	pkgdesc = Tetris but with too much physics
+	pkgver = 2.0
+	pkgrel = 1
+	url = https://github.com/Stabyourself/nottetris2
+	arch = x86_64
+	license = MIT
+	depends = love07
+	depends = bash
+	source = https://github.com/Stabyourself/nottetris2/archive/62c05953341b74f601d7f0003529fab9764a166b.zip
+	source = https://github.com/Stabyourself/nottetris2/raw/62c05953341b74f601d7f0003529fab9764a166b/LICENSE.txt
+	source = nottetris2.desktop
+	sha1sums = SKIP
+	sha1sums = SKIP
+	sha1sums = SKIP
+
+pkgname = nottetris2

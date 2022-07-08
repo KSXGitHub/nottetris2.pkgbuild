@@ -1,0 +1,7 @@
+*
+!PKGBUILD
+!.git*
+!.SRCINFO
+!*.bash
+!*.desktop
+!LICENSE.md
